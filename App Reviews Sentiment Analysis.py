@@ -15,7 +15,7 @@ import pandas as pd
 # In[3]:
 
 
-df = pd.read_csv("C:\\Users\\Acer\\Documents\\REGEX\\ML\\linkedin-reviews.csv")
+df = pd.read_csv("linkedin-reviews.csv")
 
 
 # In[4]:

@@ -11,7 +11,7 @@ import pandas as pd
 # In[5]:
 
 
-df = pd.read_csv("C:\\Users\\Acer\\Documents\\REGEX\\ML\\supply_chain.csv")
+df = pd.read_csv("supply_chain.csv")
 df
 
 
